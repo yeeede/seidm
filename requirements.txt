@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.4
 certifi==2017.4.17
 chardet==3.0.3
 configparser==3.5.0
-Django==1.11.1
+Django==2.2.24
 djangorestframework==3.6.3
 enum34==1.1.6
 httpie==0.9.9
